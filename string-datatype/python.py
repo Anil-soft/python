@@ -31,3 +31,25 @@ print(sum)
 # 🚀 No need to use + or str() for type conversion!
 # The variable age (integer) is automatically converted to a string.
 
+# example:-5
+
+text = "python is awesome"
+length = len(text)
+print ("length of the string:", length)
+
+# example:-6
+
+empty_str = ""
+print (len(empty_str))
+
+# example:-7
+
+multiline_text = """Hello,
+This is a multi-line string."""
+print(len(multiline_text))
+
+# example:-8
+
+user_input = input("enter user input:")
+print ("Length:", len(user_input))
+
