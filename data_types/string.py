@@ -1,11 +1,11 @@
-# example:-1
+example:-1
 
 str1 = "anil"
 str2 = "how are you"
 result = str1 + " " + str2
 print (result)
 
-# example:-2
+example:-2
 
 name = "anil"
 age = 28
